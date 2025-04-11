@@ -4,6 +4,7 @@
 This project focuses on the analysis and visualization of pollution data using Python and its data science libraries. The aim is to identify pollution levels, types, patterns across cities, and derive insights useful for environmental studies and action planning.
 
 📁 Dataset
+
 The dataset used in this project is python.xlsx, which includes pollution-related data across multiple cities.
 
 Key Columns:
@@ -20,6 +21,7 @@ pollutant_avg: Average pollution level
 last_update: Last date the data was updated
 
 🎯 Objectives & Insights
+
 The project allows users to perform multiple analyses interactively. Each objective was tied to visualizations and summaries to uncover hidden patterns:
 
 Distribution of Average Pollution
@@ -59,6 +61,8 @@ Custom Analysis Mode
 Users can select what type of chart to create and choose the data to analyze, such as line, bar, scatter, etc.
 
 📊 Interactive Features
+
+
 Menu-based console app: User chooses analysis via menu (options 1-9)
 
 User-defined analysis: A "Create Your Own Analysis" option lets users:
@@ -76,6 +80,8 @@ Prompts user to choose strategy for filling missing data (mean, median, or mode)
 Repeats until user exits (press 0 or type exit)
 
 🧹 Data Cleaning & Preprocessing
+
+
 Checked and imputed missing values using user-selected methods
 
 Converted last_update to proper datetime format
@@ -96,6 +102,8 @@ NumPy – Numeric operations
 Matplotlib & Seaborn – Visualization
 
 📌 Conclusion
+
+
 This pollution analysis project provides:
 
 Clear visual trends of pollution across cities and pollutants
