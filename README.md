@@ -1,4 +1,6 @@
 🌍 Pollution Data Analysis Project
+
+
 This project focuses on the analysis and visualization of pollution data using Python and its data science libraries. The aim is to identify pollution levels, types, patterns across cities, and derive insights useful for environmental studies and action planning.
 
 📁 Dataset
