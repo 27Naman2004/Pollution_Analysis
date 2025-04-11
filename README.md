@@ -236,13 +236,3 @@ Make sure your python.xlsx file is in the same directory.
 
 📦 Deployment Suggestions
 Deploy on Streamlit Cloud
-
-Share public URL on LinkedIn or GitHub Pages
-
-Add a requirements.txt for auto-setup
-
-📸 Sample Visuals
-You can add screenshots or GIFs of the dashboard here for better engagement.
-
-📬 Connect & Share
-If this project inspired or helped you, feel free to share it and tag me on LinkedIn!
